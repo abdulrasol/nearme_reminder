@@ -1,0 +1,48 @@
+{
+  "@@locale": "en",
+  "app_name": "NearMe Reminder",
+  "@app_name": {
+    "type": "text"
+  },
+  "times_reached": "{count} times reached!",
+  "@times_reached": {
+    "type": "text",
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "new_reminder_title": "new reminder",
+  "@new_reminder_title": {
+    "type": "text"
+  },
+  "add_from_title": "title",
+  "@add_from_title": {
+    "type": "text"
+  },
+  "add_from_desc": "description",
+  "@add_from_desc": {
+    "type": "text"
+  },
+  "add_from_distance": "distance to alert",
+  "@add_from_distance": {
+    "type": "text"
+  },
+  "add_repated_reminder": "repated reminder?",
+  "@add_repated_reminder": {
+    "type": "text"
+  },
+  "add__location_not_setted_yet": "Location not setted yet!",
+  "@add__location_not_setted_yet": {
+    "type": "text"
+  },
+  "add__click_to_edit": "click to edit",
+  "@add__click_to_edit": {
+    "type": "text"
+  },
+  "add__this_record_is_required": "this record is required!",
+  "@add__this_record_is_required": {
+    "type": "text"
+  }
+}
